@@ -1,0 +1,9 @@
+{
+  "name": "@types/react-telephone-input",
+  "version": "1.0.0",
+  "description": "Typescript definition for react-telephone-input",
+  "main": "index.d.ts",
+  "repository": "https://github.com/scottoasis/types-react-telephone-input",
+  "author": "Scott Wang <me@scottoas.is>",
+  "license": "MIT"
+}
